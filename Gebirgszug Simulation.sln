@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gebirgszug Simulation", "Gebirgszug Simulation\Gebirgszug Simulation.csproj", "{44072683-1238-4936-8318-3F4F0CED5CF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44072683-1238-4936-8318-3F4F0CED5CF7}.Debug|x86.ActiveCfg = Debug|x86
+		{44072683-1238-4936-8318-3F4F0CED5CF7}.Debug|x86.Build.0 = Debug|x86
+		{44072683-1238-4936-8318-3F4F0CED5CF7}.Release|x86.ActiveCfg = Release|x86
+		{44072683-1238-4936-8318-3F4F0CED5CF7}.Release|x86.Build.0 = Release|x86
+		{42FD2F20-0C53-4B7C-A192-1278A2AB6969}.Debug|x86.ActiveCfg = Debug|x86
+		{42FD2F20-0C53-4B7C-A192-1278A2AB6969}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
